@@ -1,0 +1,35 @@
+body {
+  background-color: #fdfdfd;
+  color: #000000;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column; 
+}
+
+h1 {
+  color: #000000;
+  font-size: 40px;
+  !important
+}
+
+.Seccion {
+  background-color: rgb(255, 0, 0);
+}
+
+#expe {
+  background-color: rgb(139, 79, 79);
+}
+
+p {
+  color: #000000;
+  font-size: 20px;
+}
+
+img{
+    padding: 50px;
+    margin-bottom: 50px;
+}
+
+header {
+   
+}
